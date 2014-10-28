@@ -78,6 +78,14 @@ This was included in the annexation file although all these parcels look to be o
 #####3571 Owenton Rd
 ![sg 2003 3571 Owenton Rd](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_PVA-Check2_2003.jpg "Stamping Ground 2003 3571 Owenton Rd")
 ######Source: GSCPC File, "Stamping Ground Annexations"
-###2005
 
+###2005-07
+####Reading 1 Extract (7/5/2005)
+![sg 2005 Reading 1](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_Reading1_2005.jpg "Stamping Ground Reading 1")
+####Reading 2 Extract (8/9/2005)
+![sg 2005 Reading 2-1](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_Reading2-1_2005.jpg "Stamping Ground Reading 2, page 1")
+![sg 2005 Reading 2-1](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_Reading2-2_2005.jpg "Stamping Ground Reading 2, page 2")
+####Ordinance 2005-07
+![sg 2005-07 ordinance-1](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_Ordinance-01_2005.jpg "Stamping Ground Ordinance 2005-07 page 1")
+![sg 2005-07 ordinance-2](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_Ordinance-02_2005.jpg "Stamping Ground Ordinance 2005-07 page 2")
 
