@@ -51,6 +51,33 @@ This is titled "Exhibit 'B'", but seems to be labeled "Exhibit 'A'" on the map b
 ![sg 1996 ordinance-2](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_Ordinance-02_1996.jpg "Stamping Ground Ordinance 1996-07 page 2")
 ######Source: GSCPC File, "Stamping Ground Annexations"
 
+####Zone map
+![sg 1996-07 Map](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_ZoneMap_1996.jpg "Stamping Ground 1996-07 Annexation Map")
+######Source: GSCPC File, "Stamping Ground Annexations"
+
+####Murphy Property Plat
+![sg Murphy Property Plat](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_MurphyPlat_1996.jpg "Stamping Ground 1996-07 Murphy Property Plat")
+######Source: GSCPC File, "Stamping Ground Annexations"
+This was included in the annexation file although all these parcels look to be outside Stamping Ground. The border is coincident with the western border of Tract 5.
+
+###2003
+
+####Woodlake Rd Property check
+#####1153 Woodlake Rd
+![sg 2003 1153 Woodlake Rd](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_PVA-Check4_2003.jpg "Stamping Ground 2003 1153 Woodlake Rd")
+######Source: GSCPC File, "Stamping Ground Annexations"
+#####1163 Woodlake Rd
+![sg 2003 1163 Woodlake Rd](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_PVA-Check1_2003.jpg "Stamping Ground 2003 1163 Woodlake Rd")
+######Source: GSCPC File, "Stamping Ground Annexations"
+
+####Owenton Rd Property check
+#####Lots 1 & 2 Owenton Rd
+![sg 2003 Lots 1 & 2 Owenton Rd](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_PVA-Check3_2003.jpg "Stamping Ground 2003 Lots 1 & 2 Owenton Rd")
+######Source: GSCPC File, "Stamping Ground Annexations"
+
+#####3571 Owenton Rd
+![sg 2003 3571 Owenton Rd](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_PVA-Check2_2003.jpg "Stamping Ground 2003 3571 Owenton Rd")
+######Source: GSCPC File, "Stamping Ground Annexations"
 ###2005
 
 
