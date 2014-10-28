@@ -31,7 +31,10 @@ Both maps seem to include reference to 1993-08, but the focus seems to be on the
 ![sg 1993-02 PVA Map](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_PVA_1993_.jpg "Stamping Ground 1993-02 PVA Map")
 ######Source: GSCPC File, "Stamping Ground Annexations"
 
-This one was printed off in 2013 and highlighted by someone, but I suppose is better clue as to what Stamping Ground annexed in the early 1993 annexation.
+###PVA Document
+![sg 1993-02 PVA Document](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_PVA-doc_1993.jpg "Stamping Ground 1993-02 PVA Document")
+######Source: GSCPC File, "Stamping Ground Annexations"
+The map and document from the PVA seem to go together. The map was printed off in 2013 and highlighted by someone, but I suppose is better clue as to what Stamping Ground annexed in the early 1993 annexation.
 
 ###1993-08
 ####Survey Description
