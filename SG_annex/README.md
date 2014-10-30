@@ -1,4 +1,9 @@
 #Stamping Ground Annexation Notes
+Supporting documents and maps below
+
+##Listed and noted annexations map
+![sg annexation discrepancies](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_annexation_discrep.jpg "Stamping Ground Annexation Discrepancies")
+This maps was created by Ryan Cooper, GIS Technician at Georgetown-Scott County Planning Commission GIS. It is a synthesis of the various digital and analog documents on file at GSCPC GIS, unless otherwise noted. Boundary lines are not survey grade and should be used for reference purposes only.
 
 ###Special Ordinances
 | Ord. No. | Date   | Description |
