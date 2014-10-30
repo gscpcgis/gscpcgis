@@ -102,6 +102,7 @@ This was included in the annexation file although all these parcels look to be o
 ####Plat 11-147 (SG Industrial Park)
 ![sg 2013 11-147 plat, pg 1](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_2013Annexation-01.png "Stamping Ground 11-147 plat, pg 1")
 ![sg 2013 11-147 plat, pg 2](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_2013Annexation-02.png "Stamping Ground 11-147 plat, pg 2")
+Earlier maps seem to indicate most of this area was annexed in 1987, but I don't see a reference to any ordinance
 ######Source: GSCPCGIS, NEW GIS>PROJECTS>GOVERNMENT>StGround
 
 
