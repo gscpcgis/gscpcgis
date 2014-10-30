@@ -92,3 +92,13 @@ This was included in the annexation file although all these parcels look to be o
 ![sg 2005-07 ordinance-2](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_Ordinance-02_2005.jpg "Stamping Ground Ordinance 2005-07 page 2")
 ######Source: GSCPC File, "Stamping Ground Annexations"
 
+###2013
+####City limits questions
+![sg 2013 questions 1](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_2013questions-01.png "Stamping Ground questions 1")
+![sg 2013 questions 2](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_2013questions-02.png "Stamping Ground questions 2")
+
+####Plat 11-147 (SG Industrial Park)
+![sg 2013 11-147 plat, pg 1](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_2013Annexation-01.png "Stamping Ground 11-147 plat, pg 1")
+![sg 2013 11-147 plat, pg 2](https://raw.githubusercontent.com/gscpcgis/gscpcgis/master/SG_annex/img/SG_2013Annexation-02.png "Stamping Ground 11-147 plat, pg 2")
+
+
